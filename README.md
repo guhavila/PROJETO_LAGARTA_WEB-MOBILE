@@ -10,4 +10,4 @@ Repositório para o Projeto de WEB Mobile
 
 ## Explicação Projeto
 
->> Nosso projeto tem o objetivo de ser um **marketplace** para acessórios e peças para instalação de gás, nosso site vai tanto vender quanto fazer propagandade nosso 
+>> Mais do que intermediar vendas, o projeto visa criar um **ecossistema digital completo**, conectando fornecedores qualificados a compradores de forma facil e rapida, nosso foco está em acessórios de gás e peças
