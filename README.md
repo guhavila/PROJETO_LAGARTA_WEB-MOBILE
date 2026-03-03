@@ -18,4 +18,9 @@ Repositório para o Projeto de WEB Mobile
 >> O site visa criar um ambiente intuitivo para profissionais habilitados na areá e consumidores de forma doméstica; permitindo oferecendo qualidade de serviço antes mesmo de efetuarem uma compra.
 
 ## Qual o caráter extensionista
->> Ao procurar=
+>> 
+
+
+## WIREFRAME 
+
+<img width="1352" height="627" alt="image" src="https://github.com/user-attachments/assets/6a27e2f1-293d-44d2-97a2-924c02571f36" />
