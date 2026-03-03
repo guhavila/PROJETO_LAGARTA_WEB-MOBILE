@@ -7,7 +7,15 @@ Repositório para o Projeto de WEB Mobile
 * João Vitor Alves de Freitas - 10756078
 * Enzo Marinho Bertoldo - 10752887
 
+##  Processo de Ideação
+
+>> Com pouca explicação
 
 ## Explicação Projeto
 
->> Mais do que intermediar vendas, o projeto visa criar um **ecossistema digital completo**, conectando fornecedores qualificados a compradores de forma facil e rapida, nosso foco está em acessórios de gás e peças
+>> Mais do que uma nova face a empresa, o projeto visa criar um **ambiente intuitivo para captação de novos clientes**, conectando lojas, construtoras e consumidor final com uma distribuidora que trabalha com eficiência, qualidade e confiança em seus produtos e serviços.
+
+>> O site visa criar um ambiente intuitivo para profissionais habilitados na areá e consumidores de forma doméstica; permitindo oferecendo qualidade de serviço antes mesmo de efetuarem uma compra.
+
+## Qual o caráter extensionista
+>> Ao procurar=
