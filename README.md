@@ -21,6 +21,16 @@ Repositório para o Projeto de WEB Mobile
 
 >> O projeto cumpre o papel extensionista ao promover a inovação tecnológica em uma empresa sem divulgação social, conectando de forma eficiente a distribuidora, construtoras e o consumidor final. A plataforma amplifica o acesso ao público em que ao mesmo tempo fornece ao usuario informações técnicas, auxiliando o consumidor doméstico e lojistas na escolha de produtos de qualidade e segurança com serviços eficiêntes e transparentes.
 
+## Tutorial
+
+### HTML
+>> No header, está localizado o logo que serve como link para o site principal/menu. Paralelo ao logo está no nav com links para outros sites do projeto.
+
+>> No section id="carrosel", terá 3 imagens em carrosel que servirão como links para outras sessões do projeto.
+
+>> No section id="popular", terá os produtos e categorias de protudos mais vendidos que será o foco do site principal, servindo de link para guiaro usuario para outros sites do projeto.
+
+>> No footer, estará localizado contate-nos com link para o formulario de envio e o link para rede sociais da empresa com fotos e id de identificação.
 
 ## WIREFRAME 
 
