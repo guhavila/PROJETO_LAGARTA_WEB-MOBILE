@@ -35,3 +35,8 @@ Repositório para o Projeto de WEB Mobile
 ## WIREFRAME 
 
 <img width="1352" height="627" alt="image" src="https://github.com/user-attachments/assets/6a27e2f1-293d-44d2-97a2-924c02571f36" />
+
+### wireframe 2.0 desktop 10/03
+
+<img width="1408" height="1771" alt="wireframe2" src="https://github.com/user-attachments/assets/9d050a5b-f42f-4263-9eb7-438136eff722" />
+
