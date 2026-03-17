@@ -32,6 +32,9 @@ Repositório para o Projeto de WEB Mobile
 
 >> No footer, estará localizado contate-nos com link para o formulario de envio e o link para rede sociais da empresa com fotos e id de identificação.
 
+### css
+>> 
+
 ## WIREFRAME 
 
 <img width="1352" height="627" alt="image" src="https://github.com/user-attachments/assets/6a27e2f1-293d-44d2-97a2-924c02571f36" />
