@@ -1,0 +1,85 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    height: 100vh;
+    width: 100vw;
+
+}
+
+
+header {
+    margin: 5px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom:1px solid black;
+}
+
+header nav {
+    justify-content: center;
+}
+
+header nav a {
+    margin: 10px;
+    text-justify: center;
+}
+
+#info {
+    border-bottom: 1px solid black;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#info #box-img {
+    width: 300px;
+    height: 200px;
+    border: 1px solid black;
+}
+
+#container-saiba-mais {
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+}
+
+#container-saiba-mais article {
+    margin: 10px;
+}
+
+header nav {
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+}
+
+header img {
+    width: 30%;
+}
+
+
+section {
+    padding: 10px;
+}
+
+#popular {
+    text-align: center;
+    
+    border-bottom:1px solid black;
+}
+
+.container-items {
+    display: flex;
+    justify-content: space-around;    
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
+footer article {
+    width: 50%;
+}
