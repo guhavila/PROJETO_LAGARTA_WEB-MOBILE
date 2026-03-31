@@ -9,7 +9,6 @@ body {
 
 }
 
-
 header {
     margin: 5px;
     display: flex;
@@ -18,41 +17,57 @@ header {
 }
 
 header nav {
-    justify-content: center;
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
 }
 
 header nav a {
     margin: 10px;
-    text-justify: center;
 }
 
-#info {
-    border-bottom: 1px solid black;
+#carrosel {
+    position: relative;
+    width: 100%;
+    max-width: 100%;
+    margin: 0px auto;
+    padding: 0;
+    overflow: hidden;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0,0,0,0.2);
+    z-index: 10px;
+}
+
+#slides {
     display: flex;
-    justify-content: space-evenly;
-    align-items: center;
+    transition: transform 0.5s ease-in-out;
+}
+    
+#slides img {
+    width: 100%;
+    flex-shrink: 0;
+    object-fit: cover;     
 }
 
-#info #box-img {
-    width: 300px;
-    height: 200px;
-    border: 1px solid black;
+.btn_carrosel {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    color: black;
+    border: none;
+    cursor: pointer;
+    padding: 10px 15px;
+    z-index: 10;
+    transition: background 0.3s;
+    
 }
 
-#container-saiba-mais {
-    width: 40%;
-    display: flex;
-    flex-direction: column;
+#voltarBtn {
+    left:10px;
 }
 
-#container-saiba-mais article {
-    margin: 10px;
-}
-
-header nav {
-    display: flex;
-    justify-content: space-around;
-    margin: 10px;
+#avancarBtn {
+    right:10px;
 }
 
 header img {
@@ -70,10 +85,15 @@ section {
     border-bottom:1px solid black;
 }
 
+#popular img {
+    max-width: 300px;
+}
+
 .container-items {
     display: flex;
     justify-content: space-around;    
 }
+
 
 footer {
     display: flex;
